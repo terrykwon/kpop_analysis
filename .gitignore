@@ -3,3 +3,5 @@
 *.ttf
 *.csv
 .xlsx
+attempts/*
+exports/*
